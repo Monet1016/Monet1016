@@ -1,13 +1,13 @@
 # Hi, I'm Wu GuangYu
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:dengzitao888@163.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://your-blog.com](https://blog.csdn.net/2603_95366084?type=blog)">
+  <a href="https://blog.csdn.net/2603_95366084?type=blog">
     <img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://github.com/yourname">
+  <a href="https://github.com/dangzitou">
     <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -20,8 +20,8 @@ I am a Computer Science student focused on backend engineering, AI full-stack de
 
 My interests sit at the intersection of engineering depth and product thinking. I enjoy building backend services, developer tools, and AI-powered workflows that solve real problems.
 
-- Email: 156599891732163.com
-- Base: Xiamen China
+- Email: dengzitao888@163.com
+- Base: Xiamen, China
 
 ## Languages and Tools
 
