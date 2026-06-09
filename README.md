@@ -7,7 +7,7 @@
   <a href="https://blog.csdn.net/2603_95366084?type=blog">
     <img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://github.com/dangzitou">
+  <a href="https://github.com/Monet1016">
     <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -20,7 +20,7 @@ I am a Computer Science student focused on backend engineering, AI full-stack de
 
 My interests sit at the intersection of engineering depth and product thinking. I enjoy building backend services, developer tools, and AI-powered workflows that solve real problems.
 
-- Email: dengzitao888@163.com
+- Email: 15659989137@163.com
 - Base: Xiamen, China
 
 ## Languages and Tools
