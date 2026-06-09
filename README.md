@@ -1,7 +1,7 @@
 # Hi, I'm Wu GuangYu
 
 <p align="center">
-  <a href="mailto:dengzitao888@163.com">
+  <a href="mailto:15659989173@163.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://blog.csdn.net/2603_95366084?type=blog">
@@ -26,7 +26,7 @@ My interests sit at the intersection of engineering depth and product thinking. 
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,docker,git,linux" />
 </p>
 
 ## Current Direction
