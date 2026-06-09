@@ -20,13 +20,13 @@ I am a Computer Science student focused on backend engineering, AI full-stack de
 
 My interests sit at the intersection of engineering depth and product thinking. I enjoy building backend services, developer tools, and AI-powered workflows that solve real problems.
 
-- Email: your@email.com
-- Base: Guangzhou, China
+- Email: 156599891732163.com
+- Base: Xiamen China
 
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,python,ts,js,spring,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,docker,git,linux" />
 </p>
 
 ## Current Direction
